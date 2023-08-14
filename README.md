@@ -35,6 +35,14 @@ Tyr's Vault can be accessed through any modern web browser on desktop and mobile
 ## Feedback and Support
 
 We value your feedback and are dedicated to improving Tyr's Vault. If you encounter any issues, have suggestions, or need assistance, please reach out.
+---
+
+### **Jonny**
+
+### Github: [jonny258](https://github.com/jonny258)
+
+### Email: joncolsen3@gmail.com
+---
 
 **Sam**
 
@@ -54,11 +62,6 @@ Github: [kolelam](https://github.com/kolelam)
 
 Email: kolelamied1@gmail.com
 
-**Jonny**
-
-Github: [jonny258](https://github.com/jonny258)
-
-Email: joncolsen3@gmail.com
 
 ## License
 
